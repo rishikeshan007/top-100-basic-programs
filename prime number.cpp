@@ -1,3 +1,5 @@
+/*if number should be divided only by 1 and the number is called prime */
+
 #include<iostream>
 using namespace std;
 void prime(int n)
